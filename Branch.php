@@ -14,7 +14,6 @@ include_once("config.php");?>
 
 
     <!-- content -->
-    <?php include_once("review.php");?>
     <?php include_once("footer.php");?>
 </body>
 </html>
