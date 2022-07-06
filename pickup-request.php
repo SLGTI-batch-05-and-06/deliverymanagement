@@ -13,7 +13,7 @@ include_once("config.php");?>
 <?php include_once("nav.php");?>
     <!-- content -->
  
-<div class="heading" style="background:url('images/next.jpeg') no-repeat">
+<div class="heading" style="background:url(images/next.jpeg) no-repeat">
 <h1>pickup request</h1>
 </div>
 
